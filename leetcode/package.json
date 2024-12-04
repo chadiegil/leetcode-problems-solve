@@ -1,7 +1,7 @@
 {
     "type": "module",
     "scripts": {
-      "start": "node --no-warnings --loader ts-node/esm day2.ts"
+      "start": "node --no-warnings --loader ts-node/esm day3.ts"
     },
     "devDependencies": {
       "ts-node": "^10.9.2"
